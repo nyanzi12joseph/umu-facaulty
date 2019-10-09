@@ -1,0 +1,36 @@
+h1{
+    color:purple;
+    border:15px color:green(0, 255, 42) solid;
+
+}
+p{
+    color:red;
+    text-align: center;
+    font-size:300%;
+}
+ul{
+    list-style-type:none;
+    display:flex;
+}
+li{
+    padding: 20px;
+}
+div a:link{
+    color:rgb(15, 18, 231);
+    font-size: 35px;
+    text-decoration: none;
+}
+div a:visited{
+    color:rgb(255, 0, 149);
+}
+div{
+    background:rgb(185, 216, 11);
+}
+div a:hover{
+    background-color: black;
+    color: white;
+}
+html{
+    background-color: rgb(95, 136, 182);
+}
+
